@@ -1,69 +1,80 @@
-# Hi there, I'm Rahul Maheshwari 👋
+<div align="center">
 
-### 🎓 B.Tech CSE (IoT) Student | 📍 Rajasthan, India | 🔍 Seeking Data Science Internship
+<!-- Dynamic Typing SVG -->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&pause=1000&color=58A6FF&center=true&vCenter=true&width=800&lines=Hey+there%2C+I'm+Rahul+Maheshwari+%F0%9F%91%8B;ML+%26+Data+Science+Enthusiast;From+raw+data+to+deployed+models.)](https://git.io/typing-svg)
+
+<br/>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rahulmaheshwari73)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/RahulMaheshwari12)
+[![Email](https://img.shields.io/badge/Email-Say%20Hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rahulmaheshwari529@gmail.com)
+
+<br/>
+
+> _"Data is the new oil — I'm here to refine it."_
+
+</div>
 
 ---
 
-## 🧠 About Me
+## 🧑‍💻 About Me
 
-- 🔥 Passionate about **Machine Learning, Deep Learning and Data Science**
-- 🏗️ I love building end-to-end ML projects — from raw data to deployed models
-- 📊 Strong believer in **data-driven decision making**
-- 🏓 2x State Level Table Tennis Player — I bring the same competitive drive to everything I do
-- 🌱 Currently learning **CNNs, NLP and Flask deployment**
-- 💡 Always curious, always building
+I'm a **B.Tech CSE (IoT)** student at **M.L.V. Textile & Engineering College, Rajasthan (2023–2027)**, passionate about building systems that sit at the intersection of **Machine Learning**, **Deep Learning**, and **Data Science**.
 
----
+From engineering PyTorch ANNs on 630K patient records to building interactive Flask dashboards with real-time churn prediction — I build end-to-end ML pipelines that are **data-driven, production-ready, and impactful**.
 
-## 🏆 Achievements & Competitions
-
-### 🛒 [Flipkart Gridlock Hackathon 2.0](https://www.hackerearth.com/) — *June 2026*
-> AI/ML hackathon on HackerEarth in partnership with Bengaluru Traffic Police to solve urban mobility challenges
-
-| Metric | Detail |
-|--------|--------|
-| 🎯 **Score** | **90.66** |
-| 🏅 **Rank** | **4,121** out of ~10,000 participants |
-| 🧠 **Focus** | AI-driven traffic & urban mobility solutions |
-| 🏢 **Organized by** | Flipkart × Bengaluru Traffic Police |
+- 🔭 Currently working on **deep learning projects** — CNNs, NLP & model deployment
+- 🏆 **Flipkart Gridlock Hackathon 2.0** — Score: **90.66** | Rank **4,121 / ~10,000**
+- 🏓 **2x State Level Table Tennis Player** — I bring the same competitive drive to everything I do
+- 🤝 Open to **Data Science internships**, collabs & conversations about hard problems
+- ⚡ Fun fact: I write SQL queries for fun before breakfast
 
 ---
 
 ## 🛠️ Tech Stack
 
-**Languages & Query:**
+### 🧠 ML & Deep Learning
+
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![LightGBM](https://img.shields.io/badge/LightGBM-02569B?style=for-the-badge&logo=lightgbm&logoColor=white)
+
+### 💻 Languages & Query
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
 
-**ML & Deep Learning:**
+### 📊 Data & Visualization
 
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/ScikitLearn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![LightGBM](https://img.shields.io/badge/LightGBM-02569B?style=for-the-badge&logo=lightgbm&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-
-**Visualization & BI:**
-
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge)
 ![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge)
 ![PowerBI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 
-**Tools & Deployment:**
+### 🔧 Tools & Deployment
 
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Google Colab](https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white)
+![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ---
 
-## 🚀 Machine Learning & Data Science Projects
+## 🏆 Achievements
+
+| 🏅 | Achievement | Detail |
+|----|------------|--------|
+| 🛒 | **Flipkart Gridlock Hackathon 2.0** | Score: **90.66** · Rank **4,121 / ~10,000** · AI-driven urban mobility (HackerEarth) |
+| 🏓 | **State Level Table Tennis** | 2x State Level Player |
+
+---
+
+## 🚀 Featured Projects
 
 ### 🫀 [Heart Disease Risk Prediction — PyTorch ANN](https://github.com/RahulMaheshwari12/Heart-Disease-Risk-Prediction-PyTorch-ANN)
 `Python` `PyTorch` `Flask` `SQLite3` `Scikit-Learn`
@@ -98,8 +109,6 @@
 
 ---
 
-## 📊 Data Analysis Project
-
 ### 🎬 [Netflix Data Analysis](https://github.com/RahulMaheshwari12/Netflix-data-analysis)
 `Python` `Pandas` `Seaborn` `Matplotlib`
 > Exploratory analysis of 8,800+ Netflix titles uncovering content trends
@@ -118,12 +127,12 @@
 
 ---
 
-## 🤝 Connect With Me
+<div align="center">
+
+### 💬 Let's connect and build something impactful together!
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rahulmaheshwari73)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/RahulMaheshwari12)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rahulmaheshwari529@gmail.com)
 
----
-
-⭐ *"Data is the new oil — I'm here to refine it."*
+</div>
