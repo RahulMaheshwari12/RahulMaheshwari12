@@ -1,5 +1,8 @@
 <div align="center">
 
+<img src="https://github.com/RahulMaheshwari12.png" width="150" height="150" style="border-radius: 50%;" />
+<br/><br/>
+
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&pause=1000&color=58A6FF&center=true&vCenter=true&width=800&lines=Hey+there%2C+I'm+Rahul+Maheshwari+%F0%9F%91%8B;ML+%7C+Deep+Learning+%7C+LLM+Engineer;Building+Agents+that+Think+%26+Act;From+natural+language+to+autonomous+AI+agents.;From+raw+data+to+deployed+ML+%26+DL+models.)](https://git.io/typing-svg)
 
 <br/>
