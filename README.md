@@ -1,6 +1,6 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&pause=1000&color=58A6FF&center=true&vCenter=true&width=800&lines=Hey+there%2C+I'm+Rahul+Maheshwari+%F0%9F%91%8B;ML+%7C+Deep+Learning+%7C+LLM+Engineer;Building+Agents+that+Think+%26+Act;From+raw+data+to+deployed+AI+systems.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&pause=1000&color=58A6FF&center=true&vCenter=true&width=800&lines=Hey+there%2C+I'm+Rahul+Maheshwari+%F0%9F%91%8B;ML+%7C+Deep+Learning+%7C+LLM+Engineer;Building+Agents+that+Think+%26+Act;From+natural+language+to+autonomous+AI+agents.;From+raw+data+to+deployed+ML+%26+DL+models.)](https://git.io/typing-svg)
 
 <br/>
 
@@ -16,11 +16,11 @@
 
 ---
 
-## 🧑‍💻 About Me
+## 🧑💻 About Me
 
 I'm a **B.Tech CSE (IoT)** student at **M.L.V. Textile & Engineering College, Rajasthan (2023–2027)**, building at the intersection of **Machine Learning**, **LLMs**, and **Agentic AI**.
 
-I don't just study AI — I ship it. From PyTorch ANNs on 630K patient records to a full **Multi-Agent Task Management System** using LangGraph, FastAPI, and Ollama — I build end-to-end systems that are production-ready and impactful.
+I don't just study AI — I ship it. From PyTorch ANNs on 630K patient records to a full **Multi-Agent Task Management System** using LangGraph, FastAPI, and Groq — I build end-to-end systems that are production-ready and impactful.
 
 - 🤖 Currently deep in **LLMs, RAG pipelines, and Multi-Agent Systems** with LangGraph
 - 🏆 **Flipkart Gridlock Hackathon 2.0** — Score: **90.66** | Rank **4,121 / ~10,000**
@@ -36,6 +36,7 @@ I don't just study AI — I ship it. From PyTorch ANNs on 630K patient records t
 
 ![LangChain](https://img.shields.io/badge/LangChain-00A67E?style=for-the-badge&logo=chainlink&logoColor=white)
 ![LangGraph](https://img.shields.io/badge/LangGraph-FF6B6B?style=for-the-badge&logoColor=white)
+![Groq](https://img.shields.io/badge/Groq-F5A623?style=for-the-badge&logoColor=white)
 ![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logoColor=white)
 ![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6B35?style=for-the-badge&logoColor=white)
 ![RAG](https://img.shields.io/badge/RAG-4B8BBE?style=for-the-badge&logoColor=white)
@@ -45,8 +46,8 @@ I don't just study AI — I ship it. From PyTorch ANNs on 630K patient records t
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![LightGBM](https://img.shields.io/badge/LightGBM-02569B?style=for-the-badge&logoColor=white)
-![XGBoost](https://img.shields.io/badge/XGBoost-337AB7?style=for-the-badge&logoColor=white)
+![LightGBM](https://img.shields.io/badge/LightGBM-02569B?style=for-the-badge&logo=lightgbm&logoColor=white)
+![XGBoost](https://img.shields.io/badge/XGBoost-337AB7?style=for-the-badge&logo=xgboost&logoColor=white)
 
 ### 💻 Languages & Query
 
@@ -87,16 +88,17 @@ I don't just study AI — I ship it. From PyTorch ANNs on 630K patient records t
 ## 🚀 Featured Projects
 
 ### 🤖 [Multi-Agent AI Task Management System](https://github.com/RahulMaheshwari12/multi-agent-task-manager)
-`Python` `LangGraph` `FastAPI` `Ollama` `SQLite` `Telegram Bot` `ChromaDB`
-> Production-grade multi-agent system built with Supervisor pattern using LangGraph
+`Python` `LangGraph` `FastAPI` `Groq (Llama 3.3)` `aiosqlite` `Telegram Bot` `APScheduler`
+> Production-grade multi-agent system built with a Supervisor-Worker-Reviewer pattern using LangGraph
 
-- 🧠 **5-agent architecture** — Supervisor, Planner, Task Manager, Recommender, Reviewer — orchestrated via LangGraph StateGraph
-- 💬 **Telegram Bot integration** — natural language task management ("Create high priority task for John by Friday")
-- ⚡ **FastAPI backend** with full REST API — task CRUD, search, filtering, overdue detection
-- 🗄️ **SQLite persistence** with LangGraph checkpointing for session recovery
-- 🔄 **Validation loop** — Supervisor retries failed agent outputs (max 2 retries) before escalating
-- 🖥️ **Web dashboard** — task visualization, search, filter, real-time chat interface
-- 🔀 **Dual LLM support** — Ollama (local dev) + Groq API (deployment) via single env variable switch
+- 🧠 **5-Agent Cognitive Architecture** — Orchestrated via LangGraph StateGraph comprising 5 specialized agents: Supervisor (router), Planner (decomposer), Task Manager (CRUD executor), Recommender (coach), and Reviewer (validator).
+- ⚡ **100% Asynchronous Non-Blocking Backend** — Fully migrated to `aiosqlite` and asynchronous database operations to eliminate event-loop blockages under concurrent REST and webhook traffic.
+- 📅 **Proactive Daily AI Summaries** — Integrated `APScheduler` inside the bot to push personalized morning productivity reports and overdue reminders directly to the user's Telegram chat based on DB-persisted sessions.
+- 💬 **Interactive Telegram Bot Client** — Supports CRUD commands (`/tasks`, `/overdue`, `/summary`) and natural language task creation with context-aware relative date and priority resolution.
+- 🔄 **Dynamic Error Correction & Routing** — Implemented structured verification using the Reviewer Agent to enforce retry loops (max 2 retries), routing failures back to the specific worker node (e.g. Planner) rather than the generic manager.
+- 🖥️ **Web Dashboard** — Live visualization panel showing active/completed tasks, search, status filters, and real-time chat sync.
+- 🧠 **Groq API Integration** — Configured exclusively with `llama-3.3-70b-versatile` for high-accuracy JSON tool calling, eliminating local model resource constraints.
+- 🧪 **Experimental Travel Agent Branch** — Developed an unmerged travel planner agent on the `tools/trip_planner` branch that integrates the **Tavily Search API** to fetch flight/hotel recommendations and build itineraries.
 
 ---
 
