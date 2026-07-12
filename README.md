@@ -3,15 +3,15 @@
 <img src="https://github.com/RahulMaheshwari12.png" width="150" height="150" style="border-radius: 50%;" />
 <br/><br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&pause=1000&color=58A6FF&center=true&vCenter=true&width=800&lines=Hey+there%2C+I'm+Rahul+Maheshwari+%F0%9F%91%8B;ML+%7C+Deep+Learning+%7C+LLM+Engineer;Building+Agents+that+Think+%26+Act;From+natural+language+to+autonomous+AI+agents.;From+raw+data+to+deployed+ML+%26+DL+models.)](https://git.io/typing-svg)
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&pause=1000&color=58A6FF&center=true&vCenter=true&width=800&lines=Hey+there%2C+I'm+Rahul+Maheshwari+%F0%9F%91%8B;ML+%7C+Deep+Learning+%7C+LLM+Engineer;Building+Agents+that+Think+%26+Act;From+natural+language+to+autonomous+AI+agents.;From+raw+data+to+deployed+ML+%26+DL+models." alt="Typing SVG" /></a>
 
-<br/>
+<br/><br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rahulmaheshwari73)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/RahulMaheshwari12)
-[![Email](https://img.shields.io/badge/Email-Say%20Hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rahulmaheshwari529@gmail.com)
+<a href="https://linkedin.com/in/rahulmaheshwari73" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Connect" /></a>
+<a href="https://github.com/RahulMaheshwari12" target="_blank"><img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Follow" /></a>
+<a href="mailto:rahulmaheshwari529@gmail.com"><img src="https://img.shields.io/badge/Email-Say%20Hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 
-<br/>
+<br/><br/>
 
 > _"From predicting heart disease to orchestrating AI agents — I build systems that think, act, and deliver."_
 
@@ -152,9 +152,9 @@ I don't just study AI — I ship it. From PyTorch ANNs on 630K patient records t
 
 <div align="center">
 
-![Rahul's GitHub Stats](https://github-readme-stats.vercel.app/api?username=RahulMaheshwari12&show_icons=true&theme=tokyonight&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RahulMaheshwari12&layout=compact&theme=tokyonight&hide_border=true)
+<img src="https://github-readme-stats.vercel.app/api?username=RahulMaheshwari12&show_icons=true&theme=tokyonight&hide_border=true" alt="Rahul's GitHub Stats" />
+<br/><br/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RahulMaheshwari12&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 
 </div>
 
@@ -164,8 +164,8 @@ I don't just study AI — I ship it. From PyTorch ANNs on 630K patient records t
 
 ### 💬 Let's connect and build something impactful together!
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rahulmaheshwari73)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/RahulMaheshwari12)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rahulmaheshwari529@gmail.com)
+<a href="https://linkedin.com/in/rahulmaheshwari73" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="https://github.com/RahulMaheshwari12" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+<a href="mailto:rahulmaheshwari529@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 
 </div>
